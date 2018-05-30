@@ -17,8 +17,9 @@ These tasks consist of installing pertinent software and mastering relevant prog
 * [Anaconda](https://www.continuum.io/anaconda-overview)
 
 
-## [Task 3](./3task.md): Jupyter and PyCharm
+## [Task 3](./3task.md): Jupyter, Colaboratory, and PyCharm
 
 * [Jupyter](http://jupyter.org/)
+* [Colaboratory](https://colab.research.google.com/)
 * [PyCharm](https://www.jetbrains.com/pycharm-educational/)
 * [JetBrains Student](https://www.jetbrains.com/student/)
