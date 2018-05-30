@@ -30,3 +30,8 @@ These tasks consist of installing pertinent software and mastering relevant prog
 * [SciPy](https://www.scipy.org/)
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
+
+
+## [Task 5](./5task.md): Analytics Competitions
+
+* [Kaggle](https://www.kaggle.com/learn/overview)
